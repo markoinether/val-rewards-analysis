@@ -155,7 +155,7 @@ median_trimmed_sorted_total_rewards_results = trimmed_sorted_total_rewards_resul
 ]
 
 
-# # Plotting the results
+# # Plotting the results - Not ordered
 # plt.figure(figsize=(12, 6))
 # plt.bar(range(1, (simulations + 1)), total_rewards_results, color="blue")
 # plt.axhline(y=mean_total_rewards, color="blue", linestyle="-", label="Mean")
