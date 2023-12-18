@@ -1,0 +1,201 @@
+PS C:\not-sync\git2\SPanalysis\code> python .\mev_rewards4.py
+block proposals: 2957
+Sum of total_rewards: 1.42e+21
+block proposals: 2967
+Sum of total_rewards: 1.42e+21
+block proposals: 2969
+Sum of total_rewards: 1.51e+21
+block proposals: 2955
+Sum of total_rewards: 1.43e+21
+block proposals: 2937
+Sum of total_rewards: 1.42e+21
+block proposals: 2881
+Sum of total_rewards: 1.53e+21
+block proposals: 2963
+Sum of total_rewards: 1.32e+21
+block proposals: 2951
+Sum of total_rewards: 1.46e+21
+block proposals: 2907
+Sum of total_rewards: 1.50e+21
+block proposals: 2885
+Sum of total_rewards: 1.63e+21
+block proposals: 2923
+Sum of total_rewards: 1.32e+21
+block proposals: 2963
+Sum of total_rewards: 1.31e+21
+block proposals: 2996
+Sum of total_rewards: 1.44e+21
+block proposals: 3048
+Sum of total_rewards: 1.65e+21
+block proposals: 3038
+Sum of total_rewards: 1.34e+21
+block proposals: 2932
+Sum of total_rewards: 1.35e+21
+block proposals: 2989
+Sum of total_rewards: 1.50e+21
+block proposals: 2916
+Sum of total_rewards: 1.47e+21
+block proposals: 2883
+Sum of total_rewards: 1.62e+21
+block proposals: 2935
+Sum of total_rewards: 1.35e+21
+block proposals: 3000
+Sum of total_rewards: 1.62e+21
+block proposals: 3001
+Sum of total_rewards: 1.40e+21
+block proposals: 2853
+Sum of total_rewards: 1.31e+21
+block proposals: 2916
+Sum of total_rewards: 1.34e+21
+block proposals: 2944
+Sum of total_rewards: 1.46e+21
+block proposals: 3037
+Sum of total_rewards: 1.44e+21
+block proposals: 2961
+Sum of total_rewards: 1.44e+21
+block proposals: 3029
+Sum of total_rewards: 1.61e+21
+block proposals: 2923
+Sum of total_rewards: 1.33e+21
+block proposals: 2952
+Sum of total_rewards: 1.39e+21
+block proposals: 2923
+Sum of total_rewards: 1.39e+21
+block proposals: 2908
+Sum of total_rewards: 1.44e+21
+block proposals: 2920
+Sum of total_rewards: 1.62e+21
+block proposals: 3029
+Sum of total_rewards: 1.61e+21
+block proposals: 2946
+Sum of total_rewards: 1.32e+21
+block proposals: 3079
+Sum of total_rewards: 1.51e+21
+block proposals: 2937
+Sum of total_rewards: 1.33e+21
+block proposals: 2864
+Sum of total_rewards: 1.61e+21
+block proposals: 2969
+Sum of total_rewards: 1.56e+21
+block proposals: 2950
+Sum of total_rewards: 1.69e+21
+block proposals: 2985
+Sum of total_rewards: 1.38e+21
+block proposals: 2900
+Sum of total_rewards: 1.48e+21
+block proposals: 2991
+Sum of total_rewards: 1.42e+21
+block proposals: 2904
+Sum of total_rewards: 1.35e+21
+block proposals: 2990
+Sum of total_rewards: 1.32e+21
+block proposals: 2921
+Sum of total_rewards: 1.50e+21
+block proposals: 3019
+Sum of total_rewards: 1.42e+21
+block proposals: 2967
+Sum of total_rewards: 1.36e+21
+block proposals: 2928
+Sum of total_rewards: 1.31e+21
+block proposals: 2957
+Sum of total_rewards: 1.33e+21
+block proposals: 3050
+Sum of total_rewards: 1.32e+21
+block proposals: 3012
+Sum of total_rewards: 1.31e+21
+block proposals: 2958
+Sum of total_rewards: 1.50e+21
+block proposals: 2915
+Sum of total_rewards: 1.46e+21
+block proposals: 2951
+Sum of total_rewards: 1.42e+21
+block proposals: 3063
+Sum of total_rewards: 1.30e+21
+block proposals: 3010
+Sum of total_rewards: 1.60e+21
+block proposals: 2939
+Sum of total_rewards: 1.47e+21
+block proposals: 2939
+Sum of total_rewards: 1.33e+21
+block proposals: 2870
+Sum of total_rewards: 1.52e+21
+block proposals: 2947
+Sum of total_rewards: 1.35e+21
+block proposals: 2947
+Sum of total_rewards: 1.37e+21
+block proposals: 2988
+Sum of total_rewards: 1.40e+21
+block proposals: 3019
+Sum of total_rewards: 1.49e+21
+block proposals: 2962
+Sum of total_rewards: 1.38e+21
+block proposals: 2973
+Sum of total_rewards: 1.67e+21
+block proposals: 2897
+Sum of total_rewards: 1.42e+21
+block proposals: 3012
+Sum of total_rewards: 1.39e+21
+block proposals: 2932
+Sum of total_rewards: 1.56e+21
+block proposals: 2873
+Sum of total_rewards: 1.38e+21
+block proposals: 2917
+Sum of total_rewards: 1.36e+21
+block proposals: 2985
+Sum of total_rewards: 1.37e+21
+block proposals: 2895
+Sum of total_rewards: 1.46e+21
+block proposals: 2939
+Sum of total_rewards: 1.34e+21
+block proposals: 2979
+Sum of total_rewards: 1.40e+21
+block proposals: 3070
+Sum of total_rewards: 1.62e+21
+block proposals: 2939
+Sum of total_rewards: 1.68e+21
+block proposals: 2974
+Sum of total_rewards: 1.47e+21
+block proposals: 2983
+Sum of total_rewards: 1.30e+21
+block proposals: 2895
+Sum of total_rewards: 1.33e+21
+block proposals: 3003
+Sum of total_rewards: 1.30e+21
+block proposals: 2992
+Sum of total_rewards: 1.59e+21
+block proposals: 3010
+Sum of total_rewards: 1.47e+21
+block proposals: 2954
+Sum of total_rewards: 1.34e+21
+block proposals: 2863
+Sum of total_rewards: 1.57e+21
+block proposals: 2958
+Sum of total_rewards: 1.37e+21
+block proposals: 2954
+Sum of total_rewards: 1.32e+21
+block proposals: 2918
+Sum of total_rewards: 1.50e+21
+block proposals: 2973
+Sum of total_rewards: 1.43e+21
+block proposals: 2956
+Sum of total_rewards: 1.38e+21
+block proposals: 2957
+Sum of total_rewards: 1.42e+21
+block proposals: 2939
+Sum of total_rewards: 1.43e+21
+block proposals: 2985
+Sum of total_rewards: 1.59e+21
+block proposals: 2947
+Sum of total_rewards: 1.39e+21
+block proposals: 2921
+Sum of total_rewards: 1.58e+21
+block proposals: 2893
+Sum of total_rewards: 1.42e+21
+block proposals: 3030
+Sum of total_rewards: 1.69e+21
+block proposals: 3095
+Sum of total_rewards: 1.55e+21
+block proposals: 3016
+Sum of total_rewards: 1.60e+21
+block proposals: 2988
+Sum of total_rewards: 1.44e+21
