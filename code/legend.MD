@@ -5,4 +5,4 @@
 
 `block_proposals.py` - simulating running a chain and proposing blocks 
 
-`blockReward.csv` - csv containing historic MEV rewards 
+`blockReward.csv` - csv containing historic MEV rewards, source https://github.com/htimsk/SPanalysis/blob/main/code/blockReward.csv
