@@ -28,9 +28,6 @@ As it is sampling historical MEV data to get the execution rewards for the block
 The important result that this analysis was trying to get at was the difference between expected rewards, when running different amounts of Validators. In practice this reflects the rewards of big staking pools (running 1000-10000 validators) and solo validators (running 1-10 validators).
 
   
-
-
-
   
 
 ### Comparing medians across the simulations
@@ -56,15 +53,15 @@ The sharpest difference can be observed between 1 and 10000 validators where **t
   
 For more information see the graphs below 
 
-![img1](graphs\final\Figure_12322.png)
+![img1](graphs/final/Figure_12322.png)
 
-![img1](graphs\final\Figure_12333.png)
+![img1](graphs/final/Figure_12333.png)
 
-![img1](graphs\final\Figure_12345.png)
+![img1](graphs/final/Figure_12345.png)
 
-![img1](graphs\final\Figure_123456.png)
+![img1](graphs/final/Figure_123456.png)
 
-![img1](graphs\final\Figure_1234567.png)
+![img1](graphs/final/Figure_1234567.png)
 
 ### Interpretations 
 The large difference in expected rewards is due mainly to the distribution of MEV rewards. There is a very large power law distribution in it, where the hundreth 
